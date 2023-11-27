@@ -27,7 +27,8 @@ Unittest: For making test cases.
 ## Command to execute mutation testing
 mut.py --target source_code --unit-test test -m <br />
 Here: <br />
-- source_code: Name of the python file containing source code
+
+- source_code: Name of the python file containing source code <br />
 - test: Name of the python file containing tests
 
 
