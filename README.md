@@ -25,7 +25,7 @@ Unittest: For making test cases.
 - Integration Return Expression Modification (IREM)
 
 ## Command to execute mutation testing
-mut.py --target source_code --unit-test test -m
+mut.py --target source_code --unit-test test -m <br />
 Here:
     - source_code: Name of the python file containing source code
     - test: Name of the python file containing tests
